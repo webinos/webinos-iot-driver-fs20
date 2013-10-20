@@ -1,0 +1,24 @@
+{ "name": "webinos-driver-fs20"
+, "publishConfig": { "tag": "alpha" }
+, "description": "FS20 Driver"
+, "keywords": [ "webinos", "fs20", "driver"]
+, "version": "0.0.1"
+, "homepage": "http://webinos.org/"
+, "author": "Toby Ealden <toby.ealden@gmail.com>"
+, "repository":
+  {
+  }
+, "bugs":
+  { "email": "webinos-wp4-ml@fokus.fraunhofer.de"
+  , "url": ""
+  }
+, "directories": { "lib": "./lib"
+                 }
+, "main": "./lib/driverHandle.js"
+, "dependencies":
+  {
+  }
+, "bundleDependencies":
+  [
+  ]
+}

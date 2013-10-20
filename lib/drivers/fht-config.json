@@ -1,0 +1,9 @@
+{
+  "type" : "cul",
+  "port" : "/dev/ttyAMA0",
+  "webPort": "4000",
+  "socketPort": "4001",
+  "devices" : {
+    "9059" : { "name": "Kitchen", "threshold": "20.0" }
+  }
+}

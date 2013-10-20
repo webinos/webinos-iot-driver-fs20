@@ -1,0 +1,19 @@
+{
+	"params" : {
+		"drivers" : [
+			{
+				"name" : "fs20_driver",
+				"type" : "serial",
+				"filename" : "fs20Driver.js",
+				"interfaces" : [
+					{
+						"name" : "port1",
+						"type" : "serial",
+						"port" : "/dev/cu.HXM002536-BluetoothSeri",
+						"rate" : 9600
+					}				
+				]
+			}
+		]
+	}
+}
