@@ -1,2 +1,2 @@
-webinos-driver-fs20
+webinos-iot-driver-fs20
 ===================

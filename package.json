@@ -1,4 +1,4 @@
-{ "name": "webinos-driver-fs20"
+{ "name": "webinos-iot-driver-fs20"
 , "publishConfig": { "tag": "alpha" }
 , "description": "FS20 Driver"
 , "keywords": [ "webinos", "fs20", "driver"]
@@ -6,7 +6,8 @@
 , "homepage": "http://webinos.org/"
 , "author": "Toby Ealden <toby.ealden@gmail.com>"
 , "repository":
-  {
+  { "type": "git"
+  , "url": "https://github.com/webinos/webinos-iot-driver-fs20.git"
   }
 , "bugs":
   { "email": "webinos-wp4-ml@fokus.fraunhofer.de"
@@ -17,6 +18,7 @@
 , "main": "./lib/driverHandle.js"
 , "dependencies":
   {
+    "serialport": "1.2.x"
   }
 , "bundleDependencies":
   [
