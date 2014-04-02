@@ -13,5 +13,6 @@ The host device requires an RF868MHz module which exposes a serial port interfac
 
 
 [webinos generic sensor/actuator API]:https://github.com/webinos/webinos-api-iot
-[Raspberry Pi COC extension]:[CC1101-USB-Lite]:http://shop.busware.de/product_info.php/cPath/1/products_id/29
+[Raspberry Pi COC extension]:http://shop.busware.de/product_info.php/cPath/1/products_id/29
+[CC1101-USB-Lite]:http://shop.busware.de/product_info.php/cPath/1/products_id/77
 [FHZ 1300PC]:http://shop.busware.de/product_info.php/cPath/1/products_id/77http://www.elv.de/fhz-1300-pc-mit-ks-300-empfang-software-zur-ansteuerung-der-fs20-hms-100-komponenten-der-fht-80b.html
