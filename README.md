@@ -1,10 +1,17 @@
 webinos-iot-driver-fs20
 ===================
 
+Adaptor for interfacing with FS20 devices.
+
 Introduction
 ---
 
-This adaptor exposes data broadcast by the Conrad FS20 family of home automation devices via the [webinos generic sensor/actuator API].
+This adaptor exposes data broadcast by the FS20 family of home automation devices via the [webinos generic sensor/actuator API].
+
+Installation
+---
+
+For full details of how to set up and install this module, see [webinos generic sensor/actuator API]
 
 Requirements
 ---
